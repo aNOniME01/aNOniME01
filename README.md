@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### My name is Csongor and im a 3D artist as well as a software developer.
 
-- 🌱 I’m currently learning C#.
+
 .
 .
 .
