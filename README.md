@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Csongor and im a 3D artist as well as a software developer.
+### My name is Csongor and I'm a 3D artist and software developer.
 
 
 .
