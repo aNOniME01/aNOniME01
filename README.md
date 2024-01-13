@@ -2,11 +2,6 @@
 ### My name is Csongor and I'm a 3D artist and software developer.
 
 
-.
-.
-.
-
-
 <!--
 **aNOniME01/aNOniME01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
